@@ -120,7 +120,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TawandaMavondo/strapi](https://github.com/TawandaMavondo/strapi)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|185<br/>Tools used|12/09/23 <br/>Report generated|
+|190<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -640,9 +640,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (126)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (131)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (126)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (131)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -680,6 +680,7 @@ Full tech stack [here](/techstack.md)
 |[babel-plugin-styled-components](https://www.npmjs.com/babel-plugin-styled-components)|v2.0.2|03/16/22|Alexandre Bodin |MIT|N/A|
 |[bcryptjs](https://www.npmjs.com/bcryptjs)|v2.4.3|10/18/21|Alexandre Bodin |MIT|N/A|
 |[boxen](https://www.npmjs.com/boxen)|v5.1.2|09/27/21|Alexandre Bodin |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|02/15/22|dependabot[bot] |MIT|N/A|
 |[cheerio](https://www.npmjs.com/cheerio)|v1.0.0|11/29/21|Alexandre Bodin |MIT|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v3.5.2|02/14/22|dependabot[bot] |MIT|N/A|
 |[commander](https://www.npmjs.com/commander)|v0.6.1|11/29/21|Alexandre Bodin |MIT|N/A|
@@ -706,6 +707,7 @@ Full tech stack [here](/techstack.md)
 |[html-loader](https://www.npmjs.com/html-loader)|v3.0.1|01/03/22|soupette |MIT|N/A|
 |[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v5.5.0|03/16/22|Alexandre Bodin |MIT|N/A|
 |[http-errors](https://www.npmjs.com/http-errors)|v1.8.0|10/20/21|Pierre Noël |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v3.1.0|02/14/22|dependabot[bot] |MIT|N/A|
 |[immer](https://www.npmjs.com/immer)|v8.0.1|11/08/21|Derrick Mehaffy |MIT|[CVE-2021-23436](https://github.com/advisories/GHSA-33f9-j839-rf8h) (Critical)<br/>[CVE-2021-3757](https://github.com/advisories/GHSA-c36v-fmgq-m8hx) (High)|
 |[inquirer](https://www.npmjs.com/inquirer)|v8.2.0|11/29/21|Alexandre Bodin |MIT|N/A|
 |[invariant](https://www.npmjs.com/invariant)|v2.2.4|04/16/19|soupette |MIT|N/A|
@@ -720,6 +722,7 @@ Full tech stack [here](/techstack.md)
 |[koa-compress](https://www.npmjs.com/koa-compress)|v5.1.0|09/25/21|Alexandre Bodin |MIT|N/A|
 |[koa-session](https://www.npmjs.com/koa-session)|v6.2.0|03/16/22|Alexandre Bodin |MIT|N/A|
 |[koa-static](https://www.npmjs.com/koa-static)|v5.0.0|11/29/21|Alexandre Bodin |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.5.4|03/14/22|dependabot[bot] |MIT|N/A|
 |[markdown-it](https://www.npmjs.com/markdown-it)|v12.3.2|01/25/22|HichamELBSI |MIT|N/A|
 |[markdown-it-container](https://www.npmjs.com/markdown-it-container)|v3.0.0|01/25/22|HichamELBSI |MIT|N/A|
 |[mini-css-extract-plugin](https://www.npmjs.com/mini-css-extract-plugin)|v2.4.4|03/16/22|Alexandre Bodin |MIT|N/A|
@@ -771,7 +774,9 @@ Full tech stack [here](/techstack.md)
 |[webpack-dev-server](https://www.npmjs.com/webpack-dev-server)|v4.7.3|02/02/22|Abdón Rodríguez Davila |MIT|N/A|
 |[webpackbar](https://www.npmjs.com/webpackbar)|v5.0.0|02/02/22|Abdón Rodríguez Davila |MIT|N/A|
 |[whatwg-fetch](https://www.npmjs.com/whatwg-fetch)|v3.6.2|11/29/21|Alexandre Bodin |MIT|N/A|
+|[winston](https://www.npmjs.com/winston)|v3.3.3|11/29/21|Alexandre Bodin |MIT|N/A|
 |[yargs](https://www.npmjs.com/yargs)|v13.3.2|02/23/22|dependabot[bot] |MIT|N/A|
+|[yup](https://www.npmjs.com/yup)|v0.32.9|05/11/17|Pierre Burgy |MIT|N/A|
 
 <br/>
 <div align='center'>
