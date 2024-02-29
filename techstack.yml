@@ -2,7 +2,7 @@ repo_name: TawandaMavondo/strapi
 report_id: f3cab7a9a40cbfce8c16db6e4c241220
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:27:51+00:00'
+timestamp: '2024-02-29T19:00:37+00:00'
 requested_by: ronronscelestes
 provider: github
 branch: master
@@ -404,7 +404,7 @@ tools:
   last_updated_by: Pierre Burgy
   last_updated_on: 2017-05-11 15:30:00.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.19.1
   license: MIT
@@ -418,7 +418,7 @@ tools:
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-02-22 09:04:55.000000000 Z
 - name: Sentry
-  description: 'See performance issues, fix errors faster, and optimize code health. '
+  description: See performance issues, fix errors faster, and optimize code health.
   website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
   open_source: true
   hosted_saas: true
@@ -444,7 +444,7 @@ tools:
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-03-14 10:45:16.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 5.0.0
   license: MIT
