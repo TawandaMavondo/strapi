@@ -3,55 +3,55 @@
 ## Tech Stack
 TawandaMavondo/strapi is built on the following main stack:
 
-- [Mailgun](http://mailgun.com) – Transactional Email
-- [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
-- [Cloudinary](http://cloudinary.com/) – Image Processing and Management
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [MySQL](http://www.mysql.com) – Databases
-- [PostgreSQL](http://www.postgresql.org/) – Databases
-- [SQLite](http://www.sqlite.org/) – Databases
 - [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [Koa](http://koajs.com/) – Microframeworks (Backend)
-- [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- [CodeMirror](http://codemirror.net/) – Text Editor
-- [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
-- [Codecov](https://codecov.io/) – Code Coverage
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [Nodemailer](http://www.nodemailer.com/) – Transactional Email
-- [Font Awesome](https://fontawesome.com/) – Fonts
-- [ESLint](http://eslint.org/) – Code Review
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
-- [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
-- [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
-- [GraphQL](http://graphql.org/) – Query Languages
 - [Redux](https://redux.js.org/) – State Management Library
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Stylelint](http://stylelint.io/) – Code Review
-- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- [Apollo](https://www.apollographql.com/) – Platform as a Service
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- [redux-saga](https://redux-saga.github.io) – State Management Library
-- [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
-- [styled-components](https://styled-components.com) – JavaScript Framework Components
-- [highlight.js](https://highlightjs.org/) – Text Editor
-- [Ora](https://ora.pm/) – Project Management
-- [Prettier](https://prettier.io/) – Code Review
-- [reselect](https://github.com/reactjs/reselect) – State Management Library
-- [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
-- [Formik](https://jaredpalmer.com/formik/) – Web Forms
 - [Storybook](https://storybook.js.org/) – JavaScript Framework Components
-- [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
+- [redux-saga](https://redux-saga.github.io) – State Management Library
+- [reselect](https://github.com/reactjs/reselect) – State Management Library
+- [styled-components](https://styled-components.com) – JavaScript Framework Components
 - [Cloud DB for Mysql](https://www.ncloud.com/product/database/cloudDbMysql) – SQL Database as a Service
-- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [GraphQL](http://graphql.org/) – Query Languages
+- [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
+- [MySQL](http://www.mysql.com) – Databases
+- [PostgreSQL](http://www.postgresql.org/) – Databases
+- [SQLite](http://www.sqlite.org/) – Databases
 - [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [CodeMirror](http://codemirror.net/) – Text Editor
+- [Codecov](https://codecov.io/) – Code Coverage
+- [ESLint](http://eslint.org/) – Code Review
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- [Prettier](https://prettier.io/) – Code Review
+- [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
+- [Stylelint](http://stylelint.io/) – Code Review
+- [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [highlight.js](https://highlightjs.org/) – Text Editor
+- [Apollo](https://www.apollographql.com/) – Platform as a Service
+- [Cloudinary](http://cloudinary.com/) – Image Processing and Management
+- [Mailgun](http://mailgun.com) – Transactional Email
+- [Ora](https://ora.pm/) – Project Management
+- [Font Awesome](https://fontawesome.com/) – Fonts
+- [Formik](https://jaredpalmer.com/formik/) – Web Forms
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
+- [Nodemailer](http://www.nodemailer.com/) – Transactional Email
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
+- [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -61,55 +61,55 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 TawandaMavondo/strapi is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/44/ICON_MAILGUN_NOFX.png' alt='Mailgun'/> [Mailgun](http://mailgun.com) – Transactional Email
-- <img width='25' height='25' src='https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png' alt='Sentry'/> [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
-- <img width='25' height='25' src='https://img.stackshare.io/service/304/default_d0fb82038ec18f67ca33bf6ce0df0bffb427e94f.png' alt='Cloudinary'/> [Cloudinary](http://cloudinary.com/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1726/5055057.png' alt='Koa'/> [Koa](http://koajs.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png' alt='Istanbul'/> [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2490/E_fCaAi6.png' alt='CodeMirror'/> [CodeMirror](http://codemirror.net/) – Text Editor
-- <img width='25' height='25' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'/> [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2862/qr2-jCLr.jpg' alt='Nodemailer'/> [Nodemailer](http://www.nodemailer.com/) – Transactional Email
-- <img width='25' height='25' src='https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png' alt='Font Awesome'/> [Font Awesome](https://fontawesome.com/) – Fonts
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
-- <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='SuperTest'/> [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'/> [GraphQL](http://graphql.org/) – Query Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4074/13142323.png' alt='Redux'/> [Redux](https://redux.js.org/) – State Management Library
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg' alt='Stylelint'/> [Stylelint](http://stylelint.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/5508/CyUH653y.png' alt='Apollo'/> [Apollo](https://www.apollographql.com/) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='redux-saga'/> [redux-saga](https://redux-saga.github.io) – State Management Library
-- <img width='25' height='25' src='https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg' alt='Lerna'/> [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/6749/styled-components.png' alt='styled-components'/> [styled-components](https://styled-components.com) – JavaScript Framework Components
-- <img width='25' height='25' src='https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png' alt='highlight.js'/> [highlight.js](https://highlightjs.org/) – Text Editor
-- <img width='25' height='25' src='https://img.stackshare.io/service/6925/preview.png' alt='Ora'/> [Ora](https://ora.pm/) – Project Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/7757/13142323.png' alt='reselect'/> [reselect](https://github.com/reactjs/reselect) – State Management Library
-- <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/8846/preview.png' alt='Formik'/> [Formik](https://jaredpalmer.com/formik/) – Web Forms
 - <img width='25' height='25' src='https://img.stackshare.io/service/9240/sOct-Txm_400x400.png' alt='Storybook'/> [Storybook](https://storybook.js.org/) – JavaScript Framework Components
-- <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='redux-saga'/> [redux-saga](https://redux-saga.github.io) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/7757/13142323.png' alt='reselect'/> [reselect](https://github.com/reactjs/reselect) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/6749/styled-components.png' alt='styled-components'/> [styled-components](https://styled-components.com) – JavaScript Framework Components
 - <img width='25' height='25' src='https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png' alt='Cloud DB for Mysql'/> [Cloud DB for Mysql](https://www.ncloud.com/product/database/cloudDbMysql) – SQL Database as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3820/12972006.png' alt='GraphQL'/> [GraphQL](http://graphql.org/) – Query Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'/> [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2490/E_fCaAi6.png' alt='CodeMirror'/> [CodeMirror](http://codemirror.net/) – Text Editor
+- <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png' alt='Istanbul'/> [Istanbul](http://gotwarlost.github.io/istanbul/) – Code Coverage
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png' alt='Sentry'/> [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
+- <img width='25' height='25' src='https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg' alt='Stylelint'/> [Stylelint](http://stylelint.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='SuperTest'/> [SuperTest](https://www.npmjs.com/package/supertest) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png' alt='highlight.js'/> [highlight.js](https://highlightjs.org/) – Text Editor
+- <img width='25' height='25' src='https://img.stackshare.io/service/5508/CyUH653y.png' alt='Apollo'/> [Apollo](https://www.apollographql.com/) – Platform as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/304/default_d0fb82038ec18f67ca33bf6ce0df0bffb427e94f.png' alt='Cloudinary'/> [Cloudinary](http://cloudinary.com/) – Image Processing and Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/44/ICON_MAILGUN_NOFX.png' alt='Mailgun'/> [Mailgun](http://mailgun.com) – Transactional Email
+- <img width='25' height='25' src='https://img.stackshare.io/service/6925/preview.png' alt='Ora'/> [Ora](https://ora.pm/) – Project Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png' alt='Font Awesome'/> [Font Awesome](https://fontawesome.com/) – Fonts
+- <img width='25' height='25' src='https://img.stackshare.io/service/8846/preview.png' alt='Formik'/> [Formik](https://jaredpalmer.com/formik/) – Web Forms
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg' alt='Lerna'/> [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2862/qr2-jCLr.jpg' alt='Nodemailer'/> [Nodemailer](http://www.nodemailer.com/) – Transactional Email
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -120,7 +120,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TawandaMavondo/strapi](https://github.com/TawandaMavondo/strapi)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|190<br/>Tools used|01/05/24 <br/>Report generated|
+|190<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
